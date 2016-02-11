@@ -95,6 +95,8 @@ const opal_pmix_base_module_t opal_pmix_s2_module = {
     NULL,
     NULL,
     NULL,
+    NULL,
+    NULL,
     /* utility APIs */
     NULL,
     opal_pmix_base_register_handler,
